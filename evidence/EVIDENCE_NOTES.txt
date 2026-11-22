@@ -1,0 +1,6 @@
+Screenshots collected from the user's earlier conversation uploads.
+Some CubeMX screenshots show intermediate configuration steps and should NOT be treated as definitive final settings until compared with RTOS_temp.ioc.
+Temperature_Unity_1_Test_Pass shows TESTED 1 PASSED 1.
+TIM2_CMock_1_Test_Pass shows TESTED 1 PASSED 1.
+Exhaustive ADC 4096 values PASS reported in conversation but no separate screenshot verified here.
+STM32CubeIDE final build screenshot not conclusively identified.

@@ -1,0 +1,28 @@
+
+# STM32CubeIDE generated build files
+**/Debug/
+**/Release/
+
+# Ceedling generated test files
+**/build/
+
+# Compiled firmware files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Temporary files
+*.log
+*.tmp
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
